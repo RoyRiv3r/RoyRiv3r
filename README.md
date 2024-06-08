@@ -9,7 +9,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://raw.githubusercontent.com/iGerman00/iGerman00/main/background.jpg');
+background: url('https://github.com/RoyRiv3r/RoyRiv3r/blob/main/9336992.gif?raw=true');
 "]{}
 
 \mmlToken{ms}[fontfamily="
