@@ -71,7 +71,7 @@ font-size: 0.420rem;
 background: url(https://github.com/RoyRiv3r/RoyRiv3r.github.io/blob/main/frieren.gif?raw=true);
 background-repeat: no-repeat;
 background-size: contain;
-opacity: 0.02;
+opacity: 0.20;
 background-position-x: center;
 "]{}
 ```
