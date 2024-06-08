@@ -1,15 +1,18 @@
 ```math
 \mmlToken{ms}[fontfamily="
 color: transparent;
-pointer-events:none;
+pointer-events: none;
 z-index: -11;
 position: fixed;
-inset:0;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
 object-fit: cover;
 background-size: cover;
-width: 130vw;
 opacity: 0.5;
-background: url('https://github.com/RoyRiv3r/RoyRiv3r/blob/main/9336992.gif?raw=true');
+background: url('https://github.com/RoyRiv3r/RoyRiv3r/blob/main/9336992.gif?raw=true') no-repeat center center fixed;
+background-size: cover;
 "]{}
 
 \mmlToken{ms}[fontfamily="
